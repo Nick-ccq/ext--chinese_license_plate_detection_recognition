@@ -1,0 +1,28 @@
+{
+  "name": {
+    "zh-cn": "车牌识别",
+    "en": "Chinese_license_plate_detection_recognition"
+  },
+  "description": {
+    "zh-cn": "Python模式下适配行空板的离线车牌识别",
+    "en": "Chinese_license_plate_detection_recognition"
+  },
+  "author": "Nick",
+  "email": "619104402@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "Chinese_license_plate",
+  "platform": ["win","mac","web","linux"],
+  "version": "0.0.1",
+  "asset": {
+	"python": {
+		"dir": "python/",
+		"main": "main.ts",
+		"dependencies": {
+        
+ 
+
+      }
+  }
+}
+}
